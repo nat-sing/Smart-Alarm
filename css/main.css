@@ -1,0 +1,7 @@
+@charset "utf-8";
+/* CSS Document */
+
+label {display: inline-block;}
+hr, .ui-select, p {margin: 1em 0;}
+.ui-controlgroup-controls {width: 100% !important; border:none !important; margin-bottom:1em;}
+.ui-field-contain.ui-body.ui-br {border: none;}
